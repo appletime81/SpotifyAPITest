@@ -1,0 +1,2 @@
+歌名: track.album.name
+歌手: track.album.artists[0]
