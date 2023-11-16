@@ -30,3 +30,4 @@ def get_songs(playlist_id: str, token: str):
     pprint(ret)
     print(len(ret.get("歌名")))
     print(len(ret.get("歌手")))
+    return ret
